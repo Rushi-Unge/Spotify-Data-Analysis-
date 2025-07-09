@@ -94,9 +94,26 @@ In the era of digital streaming, **data is the key to audience connection**. Mus
 
 ---
 
-## 📽️ Preview
+---
 
-*(Optional: Add screenshots of your Power BI dashboards here)*
+## 📸 Project Dashboard Preview
+
+Here are some of the Power BI dashboards and insights generated from the Spotify data:
+
+### 🎧 Artist Performance & Popularity
+![Artist Performance](./Picture1.png)
+
+### 🔥 Track Popularity & Audio Features
+![Track Popularity](./Picture2.png)
+
+### 🎼 Genre & Listening Patterns
+![Genre Analysis](./Picture3.png)
+
+### 📊 Feature-Based Filtering (Danceability, Energy, Tempo)
+![Audio Features](./Picture4.png)
+
+### 📍 Regional Preferences & Trend Mapping
+![Regional Trends](./Picture5.png)
 
 ---
 
